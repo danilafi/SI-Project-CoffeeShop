@@ -9,5 +9,6 @@
 |--|--|
 |Judul |Coffe Shop|
 
-### SCREENSHOT PROGRAM
-![TT](https://capstone-project-analysis-coffee-shop-team18.vercel.app/)
+### DEMO
+[Kunjungi Google](https://capstone-project-analysis-coffee-shop-team18.vercel.app/)
+
